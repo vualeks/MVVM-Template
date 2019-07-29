@@ -9,13 +9,15 @@
 import Foundation
 import RxSwift
 import Moya
+import XCoordinator
 
 class ___VARIABLE_moduleName___VM: ViewModel {
-  
+
+    var router: AnyRouter<AppRoute>!
     private var provider: MoyaProvider<NetworkApi>!
-    
+
     init(provider: MoyaProvider<NetworkApi>) {
         self.provider = provider
     }
-  
+
 }

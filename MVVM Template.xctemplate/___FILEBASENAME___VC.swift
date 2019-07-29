@@ -13,8 +13,6 @@ import XCoordinator
 
 final class ___VARIABLE_moduleName___VC: UIViewController, ViewModelBindable {
 
-    var router: AnyRouter<AppRoute>!
-
     var viewModel: ___VARIABLE_moduleName___VM!
     private let disposeBag = DisposeBag()
     typealias ViewModelType = ___VARIABLE_moduleName___VM
