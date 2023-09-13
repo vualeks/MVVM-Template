@@ -11,9 +11,9 @@
 	<key>DefaultCompletionName</key>
 	<string>File</string>
 	<key>Description</key>
-	<string>MVVM template : ViewController, Storyboard, ViewModel</string>
+	<string>MVVM coded UI template : ViewController, View, ViewModel</string>
 	<key>Summary</key>
-	<string>MVVM block</string>
+	<string>MVVM coded UI block</string>
 	<key>SortOrder</key>
 	<integer>1</integer>
 	<key>Options</key>
